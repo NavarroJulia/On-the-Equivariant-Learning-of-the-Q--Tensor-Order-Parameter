@@ -17,3 +17,6 @@
     <td align="center"><b>π/128-rotation</b><br><img width="250" height="250" src="https://github.com/user-attachments/assets/c3622db6-f33e-4e5a-9ba2-b4a1103fcab9" /></td>
   </tr>
 </table>
+
+
+Training and test data can be made available upon request.
