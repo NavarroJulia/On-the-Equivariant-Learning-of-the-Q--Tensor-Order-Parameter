@@ -1,4 +1,4 @@
-# The code here was used in the paper ``On the Equivariant Learning of the $Q$-tensor Order Parameter" (link: (when online...))
+# The code here was used in the paper "On the Equivariant Learning of the $Q$-tensor Order Parameter" (link: (when online...))
 
 # Network Diagram
 
