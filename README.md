@@ -1,3 +1,5 @@
+# The code here was used in the paper ``On the Equivariant Learning of the $Q$-tensor Order Parameter" (link: (when online...))
+
 # Network Diagram
 
 <img width="855" height="310" alt="DiagramOfModel" src="https://github.com/user-attachments/assets/8e41b20d-8a6f-464c-b8fe-b1a4f940357c" />
